@@ -1,2 +1,3 @@
-# isp-ledger-desktop
-A modern Windows desktop ledger software for ISPs with Google Login, Google Drive backup, auto-update, and 10-day rotation backup system.
+Free offline ISP billing & client management software for Windows.
+Manage customers, monthly bills, payments, expenses, and network data
+without internet, subscription, or license. 100% free & open for everyone.
