@@ -62,19 +62,31 @@ ISPLedger offers an **optional** Google Drive integration:
 
 ## 📸 Screenshots
 
-![ISPLedger Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 *Manage all your clients, billing, and daily collections at a glance*
 
-![Client Master Sheet](screenshots/client-sheet.png)
+![Client Master Sheet](screenshots/client_manager.png)
 *Monthly client billing sheet with payment tracking*
 
-![Network Diagram](screenshots/network-diagram.png)
+![Network Diagram](screenshots/network_diagram.png)
 *Visualize and manage your ISP network topology*
 
-![Expense Manager](screenshots/expense-manager.png)
+![Expense Manager](screenshots/expense_collection_manager.png)
 *Track daily collections and business expenses*
 
-*(Screenshots coming soon – the software is fully functional and ready to use)*
+![Reports](screenshots/reports.png)
+*Track monthly reports*
+
+![Support Tickets](screenshots/support_tickets.png)
+*Track Clients complaints with support tickets*
+
+![Inventory](screenshots/inventory_track.png)
+*Track Every inventory, buy, sold, stock, lent*
+
+![Settings](screenshots/setting_backup.png)
+*Backup your data with google drive and local for no data loss*
+
+*(the software is fully functional and ready to use)*
 
 ---
 
