@@ -88,7 +88,7 @@ ISPLedger offers an **optional** Google Drive integration:
 ### Step-by-Step Installation
 
 1. **Download the Installer**
-   - Visit the [Releases](https://github.com/yourusername/ISPLedger/releases) page
+   - Visit the [Releases](https://github.com/Sabujsheiikh/isp-ledger-desktop/releases/download/V2.1.2) page
    - Download the latest `ISPLedger-Setup-x.x.x.exe` file
 
 2. **Run the Installer**
@@ -202,8 +202,8 @@ Your support helps ISPLedger reach more people who need it!
 
 ## � Contact & Support
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/ISPLedger/issues)
-- **Email:** support@ispleger.example.com *(replace with actual contact)*
+- **GitHub Issues:** [Report bugs or request features](https://github.com/Sabujssheiikh/ISPLedger/issues)
+- **Email:** Comming soon *(replace with actual contact)*
 - **Documentation:** [User Guide & Tutorials](https://github.com/yourusername/ISPLedger/wiki) *(coming soon)*
 
 ---
@@ -212,7 +212,7 @@ Your support helps ISPLedger reach more people who need it!
 
 Ready to simplify your ISP or business management?
 
-**[Download ISPLedger](https://github.com/yourusername/ISPLedger/releases/latest)**
+**[Download ISPLedger](https://github.com/Sabujsheiikh/isp-ledger-desktop/releases/latest)**
 
 Experience the freedom of offline-first, free, and powerful billing and client management software.
 
