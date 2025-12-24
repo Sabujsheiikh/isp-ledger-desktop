@@ -214,9 +214,9 @@ Your support helps ISPLedger reach more people who need it!
 
 ## � Contact & Support
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/Sabujssheiikh/ISPLedger/issues)
-- **Email:** Comming soon *(replace with actual contact)*
-- **Documentation:** [User Guide & Tutorials](https://github.com/yourusername/ISPLedger/wiki) *(coming soon)*
+- **GitHub Issues:** [Report bugs or request features](https://github.com/Sabujsheiikh/isp-ledger-desktop/issues)
+- **Email:** sabujsheiikh@gmail.com *(replace with actual contact)*
+- **Documentation:** [User Guide & Tutorials](https://github.com/Sabujsheiikh/isp-ledger-desktop/wiki) *(coming soon)*
 
 ---
 
